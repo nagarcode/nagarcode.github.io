@@ -1,7 +1,7 @@
 layout: page
 title: "Privacy Policy"
 permalink: /dira-nedira/Privacy-Policy/
-
+qqqwwweee
 **Privacy Policy**
 
 Tomer Nagar built the Dira Nedira app as a Freemium app. This SERVICE is provided by Tomer Nagar at no cost and is intended for use as is.
